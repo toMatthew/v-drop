@@ -1,7 +1,7 @@
 {
   "name": "v-drop",
   "description": "A Vue.js project",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "https://github.com/toMatthew",
   "main": "src/vdrop.vue",
   "license": "MIT",

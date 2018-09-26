@@ -1,6 +1,5 @@
 # v-drop
 
-```
 ## Install
 ``` bash
 npm install v-drop --save-dev
